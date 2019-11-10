@@ -1,0 +1,15 @@
+Viande/Poisson/Oeuf
+
+Boeuf
+Volaille
+Jambon Blanc
+Oeuf
+Saumon
+Huitre
+
+boeuf
+volaille
+jambon
+oeuf
+saumon
+huitre

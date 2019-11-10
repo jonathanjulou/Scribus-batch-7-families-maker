@@ -1,0 +1,15 @@
+Féculent
+
+Pain
+Pâtes
+Riz
+Pommes de Terre
+Lentilles
+Avoine
+
+pain
+pates
+riz
+PDT
+lentilles
+avoine

@@ -1,0 +1,15 @@
+Fruit
+
+Pomme
+Poire
+Orange
+Raisin
+Prune
+Figue
+
+pomme
+poire
+orange
+raisin
+prune
+figue
